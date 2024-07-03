@@ -3,6 +3,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import NavBar from "./components/NavBar/NavBar";
 import NotFoundPage from "./components/NotFoundPage/NotFoundPage";
 import Settings from "./pages/Settings";
+import Inquiries from "./pages/Inquiries";
 
 const router = createBrowserRouter([
   {
@@ -17,6 +18,16 @@ const router = createBrowserRouter([
       {
         path: "/settings",
         element: <Settings />,
+        children: [
+          {
+            path: "/user-roles",
+            element: <Settings />,
+          },
+        ]
+      },
+      {
+        path: "/inquiries",
+        element: <Inquiries />,
       },
     ],
   },
