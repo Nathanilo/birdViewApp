@@ -18,12 +18,12 @@ const router = createBrowserRouter([
       {
         path: "/settings",
         element: <Settings />,
-        children: [
-          {
-            path: "/user-roles",
-            element: <Settings />,
-          },
-        ]
+        // children: [
+        //   {
+        //     path: "/user-roles",
+        //     element: <Settings />,
+        //   },
+        // ]
       },
       {
         path: "/inquiries",
