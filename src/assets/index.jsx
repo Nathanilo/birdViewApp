@@ -2,7 +2,7 @@ import Add from "./images/add.svg";
 import Logo from "./images/logo.svg";
 import Avatar from "./images/avatar.svg";
 import Cloud from "./images/cloud.svg";
-import Enquiry from "./images/enquiry.svg";
+import Inquiry from "./images/inquiry.svg";
 import Lock from "./images/lock.svg";
 import Money from "./images/money.svg";
 import Notifications from "./images/notifications.svg";
@@ -21,7 +21,7 @@ export {
   Logo,
   Avatar,
   Cloud,
-  Enquiry,
+  Inquiry,
   Lock,
   Money,
   Notifications,
