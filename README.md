@@ -17,7 +17,7 @@ BirdViewApp is a section of the Go app dashboard for managing user roles. The ap
 ## Design
 
 
-Blog wireframes are available [here](https://www.figma.com/design/ZnXAv0t3PzUD63VbyLHJsH/User-Settings-UI?fuid=835512085724184850)
+App designs are available [here](https://www.figma.com/design/ZnXAv0t3PzUD63VbyLHJsH/User-Settings-UI?fuid=835512085724184850)
 
 Link to Live app will be available 
 
